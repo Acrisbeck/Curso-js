@@ -17,6 +17,6 @@ Repositório para armazenar resumos sobre Git GitHub do curso Versionamento de C
 git init 
 ```
 ## 🔍 Referencias 
-- [DIgital Innovation One]().
+- [DIgital Innovation One.]().
 
 
